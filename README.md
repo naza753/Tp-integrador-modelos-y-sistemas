@@ -104,4 +104,4 @@ El repositorio incluye documentación respaldatoria detallada:
 * **Nazareno Castaño Narvaez** — *Desarrollo y Documentación*
   * **Institución:** E.E.S.T. N° 2 (7° Año, 2ª División)
   * **Materia:** Modelos y Sistemas / Prácticas Profesionalizantes
-  * 
+  
